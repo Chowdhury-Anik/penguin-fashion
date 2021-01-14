@@ -2,3 +2,23 @@
     width:300px;
     height:100%;
 }
+.topbanar-image{
+    width:auto;
+    height:500px;
+}
+.banner-title{
+    color: #FABE4C;
+}
+.banner-tile-second{
+    color:#363958;
+}
+
+.custom-button{
+    background-color: #A4BC46;
+}
+
+.bg-gradient{
+background-image: var(--bs-gradient);
+background-color: rgba(255, 251, 240, 1);
+}
+
